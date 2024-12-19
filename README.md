@@ -19,7 +19,9 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-CD0033?style=for-the-badge&logo=angular&logoColor=white)
 
-![Tu Nombre GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
+<br>
+
+![Tu Nombre GitHub Stats](https://github-readme-stats.vercel.app/api?username=maularove&show_icons=true&theme=radical)
 
 
 
